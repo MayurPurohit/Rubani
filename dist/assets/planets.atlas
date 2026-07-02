@@ -1,0 +1,33 @@
+planets.png
+size:1028,419
+filter:Linear,Linear
+pma:true
+assets/falling effect
+bounds:883,38,51,52
+offsets:1,1,62,59
+assets/planet 1
+bounds:2,2,415,415
+assets/planet 2
+bounds:730,92,153,154
+assets/planet 3
+bounds:730,4,86,86
+assets/planet 4
+bounds:730,248,169,169
+assets/shadow_1
+bounds:419,5,309,412
+offsets:106,0,415,415
+assets/shadow_2
+bounds:901,249,125,168
+offsets:167,123,415,415
+assets/shadow_3
+bounds:885,92,114,154
+offsets:170,130,415,415
+assets/shadow_4
+bounds:818,4,63,86
+offsets:188,164,415,415
+assets/star 4
+bounds:883,21,15,15
+offsets:1,1,17,17
+assets/star shine
+bounds:936,57,34,33
+offsets:6,6,45,44

@@ -1,0 +1,178 @@
+rocket.png
+size:2033,936
+filter:Linear,Linear
+pma:true
+001
+bounds:1115,29,33,137
+rotate:90
+Kon
+bounds:1719,344,139,118
+Rocket
+bounds:830,8,304,231
+rotate:90
+explosion_00000
+bounds:1822,40,195,130
+offsets:79,78,360,268
+explosion_00001
+bounds:1715,723,211,158
+offsets:73,57,360,268
+rotate:90
+explosion_00002
+bounds:1514,712,222,199
+offsets:58,33,360,268
+rotate:90
+explosion_00003
+bounds:266,11,278,248
+offsets:30,9,360,268
+rotate:90
+explosion_00004
+bounds:1023,631,303,245
+offsets:25,6,360,268
+rotate:90
+explosion_00005
+bounds:1021,317,303,251
+offsets:34,3,360,268
+rotate:90
+explosion_00006
+bounds:515,618,316,253
+offsets:15,1,360,268
+rotate:90
+explosion_00007
+bounds:260,291,318,256
+offsets:21,2,360,268
+rotate:90
+explosion_00008
+bounds:2,606,328,248
+offsets:15,10,360,268
+rotate:90
+explosion_00009
+bounds:2,277,327,256
+offsets:15,3,360,268
+rotate:90
+explosion_00010
+bounds:252,611,323,261
+offsets:17,1,360,268
+rotate:90
+explosion_00011
+bounds:779,314,306,240
+offsets:15,26,360,268
+rotate:90
+explosion_00012
+bounds:770,622,312,251
+offsets:16,17,360,268
+rotate:90
+explosion_00013
+bounds:518,303,313,259
+offsets:16,9,360,268
+rotate:90
+explosion_00014
+bounds:516,24,312,265
+offsets:18,3,360,268
+explosion_00015
+bounds:2,9,262,266
+offsets:64,2,360,268
+explosion_00016
+bounds:1063,64,251,241
+offsets:63,26,360,268
+rotate:90
+explosion_00017
+bounds:1270,679,255,242
+offsets:61,25,360,268
+rotate:90
+explosion_00018
+bounds:1274,383,238,221
+offsets:67,46,360,268
+rotate:90
+explosion_00019
+bounds:1306,159,222,221
+offsets:66,47,360,268
+rotate:90
+explosion_00020
+bounds:1497,455,222,220
+offsets:66,48,360,268
+rotate:90
+explosion_00021
+bounds:252,608,1,1
+number
+bounds:252,608,1,1
+fire fire_00000
+bounds:1875,850,84,156
+offsets:56,40,200,200
+rotate:90
+fire fire_00001
+bounds:1873,505,84,158
+offsets:56,39,200,200
+rotate:90
+fire fire_00002
+bounds:1392,4,84,153
+offsets:56,44,200,200
+fire fire_00003
+bounds:1719,464,84,152
+offsets:56,45,200,200
+rotate:90
+fire fire_00004
+bounds:1478,4,84,153
+offsets:56,44,200,200
+fire fire_00005
+bounds:1874,591,85,157
+offsets:55,40,200,200
+rotate:90
+fire fire_00006
+bounds:1306,3,84,154
+offsets:56,42,200,200
+fire fire_00007
+bounds:1719,550,85,152
+offsets:55,44,200,200
+rotate:90
+fire fire_00008
+bounds:1719,637,84,153
+offsets:56,44,200,200
+rotate:90
+fire fire_00009
+bounds:1873,419,84,152
+offsets:56,44,200,200
+rotate:90
+fire fire_00010
+bounds:1615,170,84,161
+offsets:56,36,200,200
+fire fire_00011
+bounds:1650,7,84,161
+offsets:56,36,200,200
+fire fire_00012
+bounds:1875,764,84,156
+offsets:56,40,200,200
+rotate:90
+fire fire_00013
+bounds:1875,678,84,156
+offsets:56,41,200,200
+rotate:90
+fire fire_00014
+bounds:1787,172,84,159
+offsets:56,38,200,200
+fire fire_00015
+bounds:1736,8,84,160
+offsets:56,37,200,200
+fire fire_00016
+bounds:1860,333,84,162
+offsets:56,35,200,200
+rotate:90
+fire fire_00017
+bounds:1529,169,84,162
+offsets:56,35,200,200
+fire fire_00018
+bounds:1701,170,84,161
+offsets:56,36,200,200
+fire fire_00019
+bounds:1564,5,84,162
+offsets:56,35,200,200
+q-line-1
+bounds:2,2,5,135
+rotate:90
+qar1
+bounds:1270,623,56,54
+qar2
+bounds:1529,336,117,116
+rotate:90
+qar3
+bounds:1063,8,54,50
+rotate:90
